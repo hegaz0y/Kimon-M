@@ -1,4 +1,3 @@
-# apkinjector
 
 ### This script is no longer supported. Please use APKWash. ###
 <br><br>
@@ -15,8 +14,8 @@ Android APK Antivirus evasion for msfvenom generated payloads to inject into ano
 <br>
 <br>
 <b>Setup:</b><br>
-chmod +x apkinjector<br>
-mv apkinjector /usr/local/bin/.<br>
+chmod +x Kimon-M<br>
+mv Kimon-M /usr/local/bin/.<br>
 <br>
 <b>On first run:</b><br>
 -Downloads and places apktool.jar in the user's /usr/local/bin directory<br>
@@ -24,7 +23,7 @@ mv apkinjector /usr/local/bin/.<br>
 <b>NOTE:</b> If wanting to customize each signature, then remove the keystore before running the script.<br>
 <br>
 <b>Usage:</b><br>
-apkinjector \<payload>.apk \<original>.apk<br>
+Kimon-M \<payload>.apk \<original>.apk<br>
 <br>
 <b>Input:</b><br>
 This script takes a msfgenerated payload as input along with an .apk you want to inject into.<br>
